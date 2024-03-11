@@ -1,3 +1,0 @@
-git add .
-git commit -m "Added index.html, style.css, and scripts.js files"
-git push origin master
